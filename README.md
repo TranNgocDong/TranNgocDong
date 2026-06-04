@@ -1,32 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00BFFF&height=220&section=header&text=TRAN%20NGOC%20DONG&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20%7C%20Mobile%20Development%20%7C%20Networking&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:003300&height=250&section=header&text=TRAN%20NGOC%20DONG&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=CYBER%20SECURITY%20•%20MOBILE%20DEV%20•%20NETWORKING&descAlignY=60&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Cyber+Security+Enthusiast;Mobile+Development+Learner;Networking+Student;Learning+by+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=1000&lines=%3E+Cyber+Security+Enthusiast;%3E+Linux+Learner;%3E+Mobile+Developer;%3E+Networking+Student;%3E+Build+.+Break+.+Learn" />
+
+<img src="https://komarev.com/ghpvc/?username=TranNgocDong&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Access Terminal
+
+```diff
++ ACCESS GRANTED
++ USER: Tran Ngoc Dong
++ ROLE: Information Technology Student
++ STATUS: ONLINE
++ MAIN PATH: Cyber Security
++ SIDE PATH: Mobile Development
++ NETWORKING: IN PROGRESS
++ MISSION: Learn -> Build -> Break -> Fix -> Improve
+```
+
+---
+
+## 🔐 Cyber Profile
 
 ```bash
 > whoami
 Tran Ngoc Dong
 
-> role
-Information Technology Student
-
 > current_focus
 Cyber Security | Mobile Development | Networking
 
 > mindset
-Learn -> Build -> Break -> Fix -> Improve
+Learning by building real projects
+
+> goal
+Cyber Security Engineer
 ```
 
 ---
 
-## 🔐 Interests
+## 🧠 Interests
 
 ```txt
 [+] Cyber Security
@@ -35,58 +52,47 @@ Learn -> Build -> Break -> Fix -> Improve
 [+] Mobile Development
 [+] Cloud Computing
 [+] Software Engineering
+[+] Security Learning Labs
 ```
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Arsenal
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,linux,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## 🎮 Cyber Dashboard
+## 🎮 System Dashboard
 
 ```txt
-┌──────────────────────────────────────────────┐
-│              SYSTEM STATUS                   │
-├──────────────────────────────────────────────┤
-│ User              : Tran Ngoc Dong           │
-│ Mode              : Learning                 │
-│ Main Path         : Cyber Security           │
-│ Side Path         : Mobile Development       │
-│ Network Skill     : In Progress              │
-│ Linux Skill       : In Progress              │
-│ Mission           : Build real projects      │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│                  SYSTEM STATUS                     │
+├────────────────────────────────────────────────────┤
+│ User              : Tran Ngoc Dong                 │
+│ Mode              : Learning / Building            │
+│ Main Path         : Cyber Security                 │
+│ Side Path         : Mobile Development             │
+│ Network Skill     : In Progress                    │
+│ Linux Skill       : In Progress                    │
+│ Mission           : Build real projects            │
+│ Motto             : Keep Learning, Keep Building   │
+└────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&theme=merko&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=00FF41" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&theme=merko&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&theme=merko&hide_border=true&background=000000&stroke=39FF14&ring=00FF41&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
 
@@ -96,7 +102,7 @@ Learn -> Build -> Break -> Fix -> Improve
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TranNgocDong&theme=matrix&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=TranNgocDong&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 
 </div>
 
@@ -106,7 +112,7 @@ Learn -> Build -> Break -> Fix -> Improve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNgocDong&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNgocDong&bg_color=000000&color=39FF14&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -115,31 +121,49 @@ Learn -> Build -> Break -> Fix -> Improve
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 ---
 
-
 ## 🚀 Featured Areas
 
-🔐 Cyber Security
+<table>
+<tr>
+<td width="33%">
 
-- Linux Fundamentals
-- Security Learning Labs
-- Network Security
-- Future CTF Challenges
+### 🔐 Cyber Security
 
-📱 Mobile Development
+* Linux Fundamentals
+* Security Learning Labs
+* Network Security
+* Future CTF Challenges
 
-- Expense Management App (Kotlin)
-- Android Development Practice
+</td>
+<td width="33%">
 
-🌐 Networking
+### 📱 Mobile Development
 
-- Cisco Networking Labs
-- Network Design Projects
-- Routing & Switching
+* Kotlin Practice
+* Android Development
+* Expense Management App
+* Mobile UI Practice
+
+</td>
+<td width="33%">
+
+### 🌐 Networking
+
+* Cisco Networking Labs
+* Network Design Projects
+* Routing & Switching
+* Cloud Networking
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -162,19 +186,26 @@ Software Engineering ██████░░░░ 60%
 $ sudo apt update skills
 
 Updating cyber security knowledge...
+Updating Linux skills...
 Updating networking skills...
 Updating mobile development path...
 Updating GitHub profile...
 
 Done.
+
+$ echo "Keep Learning. Keep Building. Keep Improving."
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:00FF41&height=120&section=footer" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-### ⚡ Keep Learning • Keep Building • Keep Improving ⚡
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=140&section=footer" />
+
+### ⚡ KEEP LEARNING • KEEP BUILDING • KEEP IMPROVING ⚡
 
 </div>
