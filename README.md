@@ -1,8 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Trần Ngọc Đông
+# 👋 Hi, I'm Tran Ngoc Dong
 
 <div align="center">
 
-# 🔐 Cyber Security | 📱 Mobile Development | 🌐 Networking
+# 🔐 Cyber Security Enthusiast | 📱 Mobile Development Learner | 🌐 Networking Student
 
 ### Information Technology Student
 
@@ -12,13 +12,11 @@
 
 ---
 
-## 👨‍💻 About Me | Giới thiệu
+## 👨‍💻 About Me
 
-### 🇬🇧 English
+I am an Information Technology student passionate about Cyber Security, Mobile Development, Networking, and Software Engineering.
 
-I am an Information Technology student who is passionate about Cyber Security, Mobile Development, Networking, and Software Engineering.
-
-I enjoy learning new technologies, building projects, solving technical problems, and continuously improving my skills through hands-on practice.
+I enjoy learning new technologies, solving technical challenges, and building practical projects that improve my skills and knowledge.
 
 Currently, I am focusing on:
 
@@ -29,24 +27,9 @@ Currently, I am focusing on:
 * ☁️ Cloud Computing
 * 💻 Software Development
 
-### 🇻🇳 Tiếng Việt
-
-Tôi là sinh viên ngành Công nghệ Thông tin với niềm đam mê về An toàn thông tin, Phát triển ứng dụng di động, Mạng máy tính và Kỹ thuật phần mềm.
-
-Tôi thích học các công nghệ mới, xây dựng dự án thực tế, giải quyết các bài toán kỹ thuật và không ngừng nâng cao kỹ năng thông qua việc thực hành.
-
-Hiện tại tôi đang tập trung vào:
-
-* 🔐 An toàn thông tin (Cyber Security)
-* 📱 Lập trình ứng dụng di động
-* 🌐 Mạng máy tính
-* 🐧 Hệ điều hành Linux
-* ☁️ Điện toán đám mây
-* 💻 Phát triển phần mềm
-
 ---
 
-## 🚀 Tech Stack | Công nghệ đang học
+## 🚀 Tech Stack
 
 ### Programming Languages
 
@@ -60,36 +43,28 @@ Hiện tại tôi đang tập trung vào:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Networking & Systems
+### Systems & Networking
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🎯 Career Goal | Mục tiêu nghề nghiệp
+## 🎯 Career Goal
 
-### 🇬🇧
+My goal is to become a Cyber Security Engineer while continuously improving my software development, networking, and mobile development skills.
 
-My goal is to become a professional Cyber Security Engineer while continuing to develop strong software engineering and mobile development skills.
-
-I believe in continuous learning and practical experience through real-world projects.
-
-### 🇻🇳
-
-Mục tiêu của tôi là trở thành một Cyber Security Engineer chuyên nghiệp, đồng thời phát triển kỹ năng về phát triển phần mềm và ứng dụng di động.
-
-Tôi tin rằng việc học tập liên tục và thực hành qua các dự án thực tế là con đường tốt nhất để phát triển.
+I believe that hands-on experience, continuous learning, and real-world projects are the foundation of professional growth.
 
 ---
 
-## 📚 Currently Learning | Đang học
+## 📚 Currently Learning
 
 * Cyber Security Fundamentals
 * Linux Administration
-* Mobile Development
+* Mobile Application Development
 * Computer Networking
 * Cloud Computing
 * Git & GitHub Workflow
@@ -97,13 +72,11 @@ Tôi tin rằng việc học tập liên tục và thực hành qua các dự á
 
 ---
 
-## 📂 Featured Projects | Dự án
+## 🚧 Projects
 
-> 🚧 Coming Soon...
->
-> I am currently building and improving my projects.
->
-> Các dự án sẽ được cập nhật trong thời gian tới.
+Projects are currently being updated.
+
+Stay tuned for upcoming repositories and learning projects.
 
 ---
 
@@ -123,13 +96,14 @@ Tôi tin rằng việc học tập liên tục và thực hành qua các dự á
 
 ## 💡 Personal Motto
 
-> "Every expert was once a beginner.
-> Keep learning, keep building, keep improving."
+> Every expert was once a beginner.
+>
+> Keep learning. Keep building. Keep improving.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### Thank you for visiting my profile 🚀
 
 </div>
