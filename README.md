@@ -1,109 +1,121 @@
-# 👋 Hi, I'm Tran Ngoc Dong
-
 <div align="center">
 
-# 🔐 Cyber Security Enthusiast | 📱 Mobile Development Learner | 🌐 Networking Student
+# 👾 TRAN NGOC DONG
 
-### Information Technology Student
+### Cyber Security • Mobile Development • Networking
 
-*"Learning by Building, Growing by Solving."*
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Mobile+Development+Learner;Networking+Student;Always+Learning+New+Things" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am an Information Technology student passionate about Cyber Security, Mobile Development, Networking, and Software Engineering.
-
-I enjoy learning new technologies, solving technical challenges, and building practical projects that improve my skills and knowledge.
-
-Currently, I am focusing on:
-
-* 🔐 Cyber Security
-* 📱 Mobile Development
-* 🌐 Computer Networking
-* 🐧 Linux Systems
-* ☁️ Cloud Computing
-* 💻 Software Development
+```bash
+Name        : Tran Ngoc Dong
+Role        : IT Student
+Focus       : Cyber Security
+Learning    : Mobile Development, Networking, Cloud Computing
+OS          : Linux
+Mindset     : Learn -> Build -> Improve
+```
 
 ---
 
-## 🚀 Tech Stack
+## 🔐 Interests
 
-### Programming Languages
+* Cyber Security
+* Penetration Testing
+* Linux Systems
+* Computer Networking
+* Mobile Development
+* Cloud Computing
+* Software Engineering
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Web Development
+### Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Systems & Networking
+### Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Current Roadmap
 
-My goal is to become a Cyber Security Engineer while continuously improving my software development, networking, and mobile development skills.
-
-I believe that hands-on experience, continuous learning, and real-world projects are the foundation of professional growth.
-
----
-
-## 📚 Currently Learning
-
-* Cyber Security Fundamentals
-* Linux Administration
-* Mobile Application Development
-* Computer Networking
-* Cloud Computing
-* Git & GitHub Workflow
-* Software Engineering
+```text
+Cyber Security     ████████░░ 80%
+Linux              ███████░░░ 70%
+Networking         ███████░░░ 70%
+Mobile Development █████░░░░░ 50%
+Cloud Computing    ████░░░░░░ 40%
+```
 
 ---
 
-## 🚧 Projects
+## 📂 Featured Projects
 
-Projects are currently being updated.
+### 🌍 Travel
 
-Stay tuned for upcoming repositories and learning projects.
+Travel planning application with modern UI and trip management features.
+
+Repository:
+https://github.com/TranNgocDong/Travel
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranNgocDong\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=TranNgocDong\&show_icons=true\&theme=chartreuse-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong\&layout=compact\&theme=chartreuse-dark)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong\&theme=chartreuse-dark)
 
 ---
 
-## 💡 Personal Motto
+## 💻 Terminal
 
-> Every expert was once a beginner.
->
-> Keep learning. Keep building. Keep improving.
+```bash
+$ whoami
+
+Tran Ngoc Dong
+
+$ current_focus
+
+Cyber Security
+Mobile Development
+Networking
+
+$ future_goal
+
+Cyber Security Engineer
+```
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my profile 🚀
+### "Stay curious. Keep learning. Never stop building."
 
 </div>
