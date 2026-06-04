@@ -1,8 +1,11 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:5DADE2,70:EAF6FF,100:0D1117&height=260&section=header&text=TRAN%20NGOC%20DONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20•%20Mobile%20Development%20•%20Networking&descAlignY=60&descSize=20" />
+<img src="./assets/winter-banner.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=%E2%9D%84%EF%B8%8F+Cyber+Security+Student;%E2%9D%84%EF%B8%8F+Mobile+Development+Learner;%E2%9D%84%EF%B8%8F+Networking+Enthusiast;%E2%9D%84%EF%B8%8F+Always+Learning" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Mobile+Development+Learner;Networking+Enthusiast;Silent+Focused+Always+Learning" />
 
 </div>
 
@@ -30,7 +33,7 @@ $ philosophy
 Learn.
 Build.
 Improve.
-```
+````
 
 ---
 
@@ -106,7 +109,7 @@ Improve.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -138,15 +141,6 @@ Improve.
 
 # 🐍 Contribution Snake
 
-
-<div align="center">
-
-<img src="./assets/winter-banner.svg" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Mobile+Development+Learner;Networking+Enthusiast;Silent+Focused+Always+Learning" />
-
-</div>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" />
@@ -157,20 +151,20 @@ Improve.
 
 # 🚀 Featured Areas
 
-### 🔐 Cyber Security
+## 🔐 Cyber Security
 
 * Linux Fundamentals
 * Security Labs
 * Network Security
 * Future CTF Challenges
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 * Kotlin Practice
 * Android Development
 * Mobile UI Projects
 
-### 🌐 Networking
+## 🌐 Networking
 
 * Cisco Networking Labs
 * Routing & Switching
@@ -186,8 +180,7 @@ Improve.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A7D8FF,100:0D1117&height=140&section=footer"/>
-
 ### ❄️ Silent • Focused • Always Learning ❄️
 
 </div>
+```
