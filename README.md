@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=260&section=header&text=TRAN%20NGOC%20DONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE%20•%20CONNECT%20•%20DEFEND&descAlignY=60&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:5DADE2,70:EAF6FF,100:0D1117&height=260&section=header&text=TRAN%20NGOC%20DONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20•%20Mobile%20Development%20•%20Networking&descAlignY=60&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Mobile+Development+Learner;Networking+Enthusiast;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=%E2%9D%84%EF%B8%8F+Cyber+Security+Student;%E2%9D%84%EF%B8%8F+Mobile+Development+Learner;%E2%9D%84%EF%B8%8F+Networking+Enthusiast;%E2%9D%84%EF%B8%8F+Always+Learning" />
 
 </div>
 
 ---
 
-# 👋 About Me
+# ❄️ About Me
 
 ```bash
 $ whoami
@@ -19,7 +19,7 @@ $ role
 
 Information Technology Student
 
-$ current_focus
+$ interests
 
 Cyber Security
 Mobile Development
@@ -27,7 +27,25 @@ Networking
 
 $ philosophy
 
-Learn -> Build -> Improve
+Learn.
+Build.
+Improve.
+```
+
+---
+
+# 🧊 Current Focus
+
+```text
+❄️ Cyber Security Fundamentals
+
+❄️ Linux Administration
+
+❄️ Android Development
+
+❄️ Computer Networking
+
+❄️ Cloud Computing
 ```
 
 ---
@@ -36,74 +54,45 @@ Learn -> Build -> Improve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,linux,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# 📡 Current Focus
+# 📚 Learning Journey
 
-```bash
-[ LEARNING ]
+```text
+🌨️ Learning
 
-- Cyber Security Fundamentals
-- Linux Administration
-- Android Development
-- Computer Networking
-- Cloud Computing
+• Cyber Security
+• Linux
+• Networking
+• Mobile Development
 
-[ BUILDING ]
+❄️ Building
 
-- Mobile Applications
-- Networking Labs
-- University Projects
+• Android Projects
+• Networking Labs
+• University Projects
 
-[ EXPLORING ]
+🧊 Exploring
 
-- Mobile Security
-- Cloud Security
-- Security Research
+• Mobile Security
+• Cloud Security
+• Security Research
 ```
 
 ---
 
-# 🔐 Areas of Interest
+# 🔹 Areas of Interest
 
-<table>
-<tr>
-<td width="33%">
-
-### Cyber Security
-
-* Linux Security
-* Security Labs
-* Network Security
-* CTF Challenges
-
-</td>
-<td width="33%">
-
-### Mobile Development
-
-* Kotlin
-* Android
-* UI/UX Practice
-* Mobile Projects
-
-</td>
-<td width="33%">
-
-### Networking
-
-* Cisco Labs
-* Routing & Switching
-* Network Design
-* Infrastructure
-
-</td>
-</tr>
-</table>
+| ❄️ Cyber Security | 📱 Mobile Development | 🌐 Networking       |
+| ----------------- | --------------------- | ------------------- |
+| Linux Security    | Kotlin                | Cisco Labs          |
+| Network Security  | Android               | Routing & Switching |
+| Security Labs     | Mobile UI             | Network Design      |
+| Future CTFs       | App Development       | Infrastructure      |
 
 ---
 
@@ -117,7 +106,7 @@ Learn -> Build -> Improve
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -157,52 +146,39 @@ Learn -> Build -> Improve
 
 ---
 
-# 🚀 Featured Repositories
-
-### 📱 Mobile Development
-
-* Expense Management App
-* Android Learning Projects
-* Kotlin Practice
+# 🚀 Featured Areas
 
 ### 🔐 Cyber Security
 
+* Linux Fundamentals
 * Security Labs
-* Linux Practice
-* Future CTF Writeups
+* Network Security
+* Future CTF Challenges
+
+### 📱 Mobile Development
+
+* Kotlin Practice
+* Android Development
+* Mobile UI Projects
 
 ### 🌐 Networking
 
-* Cisco Labs
-* Network Design Projects
+* Cisco Networking Labs
 * Routing & Switching
+* Network Design
 
 ---
 
-# 💻 Terminal
+# 💭 Quote
 
-```bash
-$ cat mission.txt
-
-Build useful projects.
-Learn continuously.
-Improve every day.
-
-$ cat future.txt
-
-Cyber Security Engineer
-Mobile Security
-Cloud Security
-
-$ echo "Stay curious."
-```
+> The best way to predict the future is to build it.
 
 ---
 
 <div align="center">
 
-### CODE • CONNECT • DEFEND
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A7D8FF,100:0D1117&height=140&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer" />
+### ❄️ Silent • Focused • Always Learning ❄️
 
 </div>
