@@ -1,184 +1,156 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:5DADE2,70:EAF6FF,100:0D1117&height=260&section=header&text=TRAN%20NGOC%20DONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20•%20Mobile%20Development%20•%20Networking&descAlignY=60&descSize=20" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=%E2%9D%84%EF%B8%8F+Cyber+Security+Student;%E2%9D%84%EF%B8%8F+Mobile+Development+Learner;%E2%9D%84%EF%B8%8F+Networking+Enthusiast;%E2%9D%84%EF%B8%8F+Always+Learning" />
-
+  <img src="watermarked_img_4062852808256070649.png" alt="Tran Ngoc Dong - GitHub Banner" width="100%">
+  <p><em>Silent • Focused • Always Learning</em></p>
 </div>
 
----
+<br>
 
-# ❄️ About Me
-
-```bash
-$ whoami
-
-Tran Ngoc Dong
-
-$ role
-
-Information Technology Student
-
-$ interests
-
-Cyber Security
-Mobile Development
-Networking
-
-$ philosophy
-
-Learn.
-Build.
-Improve.
-```
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="70%" style="border: none;">
+      <pre><code>$ whoami
+> Name      : Tran Ngoc Dong
+> Role      : Information Technology Student
+> Focus     : Cyber Security • Mobile Development • Networking
+> Location  : Viet Nam 🇻🇳
+> Status    : Learning • Building • Improving
+> Mission   : Learn deeply. Build passionately. 
+              Solve real problems.</code></pre>
+    </td>
+    <td width="30%" align="center" style="border: none;">
+      <h3>❄️ PROFILE VIEWS</h3>
+      <img src="https://komarev.com/ghpvc/?username=TranNgocDong&label=VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🧊 Current Focus
-
-```text
-❄️ Cyber Security Fundamentals
-
-❄️ Linux Administration
-
-❄️ Android Development
-
-❄️ Computer Networking
-
-❄️ Cloud Computing
-```
-
----
-
-# ⚡ Tech Stack
+### ❄️ TECH STACK
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,linux,git,github,vscode&theme=dark"/>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,kotlin,html,css,js,linux,git,github,vscode,figma&perline=6&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
 
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❄️ CURRENT FOCUS</h3>
+      <b>📖 LEARNING</b>
+      <ul>
+        <li>Cyber Security Fundamentals</li>
+        <li>Linux Administration</li>
+        <li>Computer Networking</li>
+        <li>Cloud Computing</li>
+      </ul>
+      <b>&lt;/&gt; BUILDING</b>
+      <ul>
+        <li>Mobile Applications</li>
+        <li>Networking Labs</li>
+        <li>University Projects</li>
+      </ul>
+      <b>🔍 EXPLORING</b>
+      <ul>
+        <li>Security Research</li>
+        <li>Mobile Security</li>
+        <li>Cloud Security</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>❄️ CORE INTERESTS</h3>
+      <b>🔒 Cyber Security</b>
+      <ul>
+        <li>Linux Security</li>
+        <li>Network Security</li>
+        <li>Security Labs</li>
+        <li>CTF Challenges</li>
+      </ul>
+      <b>📱 Mobile Development</b>
+      <ul>
+        <li>Kotlin</li>
+        <li>Android Development</li>
+        <li>UI/UX Practice</li>
+        <li>Mobile Projects</li>
+      </ul>
+      <b>🌐 Networking</b>
+      <ul>
+        <li>Cisco Labs</li>
+        <li>Routing & Switching</li>
+        <li>Network Design</li>
+        <li>Infrastructure</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
-# 📚 Learning Journey
-
-```text
-🌨️ Learning
-
-• Cyber Security
-• Linux
-• Networking
-• Mobile Development
-
-❄️ Building
-
-• Android Projects
-• Networking Labs
-• University Projects
-
-🧊 Exploring
-
-• Mobile Security
-• Cloud Security
-• Security Research
-```
-
----
-
-# 🔹 Areas of Interest
-
-| ❄️ Cyber Security | 📱 Mobile Development | 🌐 Networking       |
-| ----------------- | --------------------- | ------------------- |
-| Linux Security    | Kotlin                | Cisco Labs          |
-| Network Security  | Android               | Routing & Switching |
-| Security Labs     | Mobile UI             | Network Design      |
-| Future CTFs       | App Development       | Infrastructure      |
-
----
-
-# 📊 GitHub Statistics
+### ❄️ GITHUB STATISTICS
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&icon_color=7DD3FC" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&theme=nord&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&currStreakLabel=7DD3FC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="32%" />
 </div>
 
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>❄️ CONTRIBUTION ACTIVITY</h3>
+      <!-- Thay URL dưới đây bằng URL biểu đồ contribution của bạn hoặc thiết lập GitHub Action (snk) -->
+      <img src="https://ghchart.rshah.org/38BDF8/TranNgocDong" alt="Contribution Graph" width="100%" />
+    </td>
+    <td width="40%" valign="top">
+      <h3>❄️ RECENT ACTIVITY</h3>
+      <ul>
+        <li>🔀 Pushed updates to Networking-Lab</li>
+        <li>💻 Created Android Expense App</li>
+        <li>🏆 Solved CTF Challenge</li>
+        <li>📝 Updated README.md</li>
+        <li>🔀 Opened Pull Request</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none;" valign="top">
+      <pre><code>$ sudo motivation.exe
+> Initializing...
+> Loading skills...
+> Building projects...
+> Fixing bugs...
+> Improving every day...
+> Done.
+$ echo "Stay curious. Keep building. Make it real."
+Stay curious. Keep building. Make it real.</code></pre>
+    </td>
+    <td width="40%" align="center" style="border: none; padding: 20px;">
+      <blockquote>
+        <h3>"The best way to predict the future is to build it."</h3>
+        <p align="right">
+          — Keep Learning<br>
+          — Keep Building<br>
+          — Keep Improving
+        </p>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNgocDong&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TranNgocDong&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🚀 Featured Areas
-
-### 🔐 Cyber Security
-
-* Linux Fundamentals
-* Security Labs
-* Network Security
-* Future CTF Challenges
-
-### 📱 Mobile Development
-
-* Kotlin Practice
-* Android Development
-* Mobile UI Projects
-
-### 🌐 Networking
-
-* Cisco Networking Labs
-* Routing & Switching
-* Network Design
-
----
-
-# 💭 Quote
-
-> The best way to predict the future is to build it.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A7D8FF,100:0D1117&height=140&section=footer"/>
-
-### ❄️ Silent • Focused • Always Learning ❄️
-
+  <p>
+    <a href="mailto:dongdev.contact@gmail.com">✉️ dongdev.contact@gmail.com</a> &nbsp; • &nbsp;
+    <a href="https://github.com/TranNgocDong">🐱 github.com/TranNgocDong</a> &nbsp; • &nbsp;
+    📍 Viet Nam
+  </p>
 </div>
