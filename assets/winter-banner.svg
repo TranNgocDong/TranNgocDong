@@ -1,0 +1,138 @@
+```svg
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420">
+      <stop offset="0%" stop-color="#050B16"/>
+      <stop offset="45%" stop-color="#0D1B2A"/>
+      <stop offset="100%" stop-color="#07111F"/>
+    </linearGradient>
+
+    <linearGradient id="ice" x1="0" y1="0" x2="1600" y2="0">
+      <stop offset="0%" stop-color="#5DADE2"/>
+      <stop offset="50%" stop-color="#EAF6FF"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+
+  <!-- Stars / Snow -->
+  <g opacity="0.9">
+    <circle cx="90" cy="60" r="2" fill="#A7D8FF"/>
+    <circle cx="180" cy="115" r="1.5" fill="#EAF6FF"/>
+    <circle cx="300" cy="45" r="2" fill="#A7D8FF"/>
+    <circle cx="480" cy="95" r="1.5" fill="#EAF6FF"/>
+    <circle cx="630" cy="55" r="2" fill="#A7D8FF"/>
+    <circle cx="830" cy="95" r="1.5" fill="#EAF6FF"/>
+    <circle cx="1030" cy="40" r="2" fill="#A7D8FF"/>
+    <circle cx="1230" cy="100" r="1.5" fill="#EAF6FF"/>
+    <circle cx="1390" cy="55" r="2" fill="#A7D8FF"/>
+    <circle cx="1510" cy="130" r="1.5" fill="#EAF6FF"/>
+  </g>
+
+  <!-- Digital lines -->
+  <g stroke="#38BDF8" stroke-width="1" opacity="0.35">
+    <path d="M80 120 H250 V80 H390"/>
+    <path d="M1210 90 H1370 V150 H1510"/>
+    <path d="M120 300 H310 V250 H460"/>
+    <path d="M1120 300 H1280 V250 H1480"/>
+    <circle cx="250" cy="120" r="5" fill="#38BDF8"/>
+    <circle cx="1370" cy="90" r="5" fill="#38BDF8"/>
+    <circle cx="310" cy="300" r="5" fill="#38BDF8"/>
+    <circle cx="1280" cy="300" r="5" fill="#38BDF8"/>
+  </g>
+
+  <!-- Mountains -->
+  <g opacity="0.95">
+    <path d="M0 350 L180 180 L330 350 Z" fill="#102A43"/>
+    <path d="M120 350 L310 130 L520 350 Z" fill="#163B5C"/>
+    <path d="M430 350 L670 160 L910 350 Z" fill="#102A43"/>
+    <path d="M760 350 L980 120 L1210 350 Z" fill="#163B5C"/>
+    <path d="M1080 350 L1320 150 L1600 350 Z" fill="#102A43"/>
+
+    <path d="M180 180 L220 255 L160 235 Z" fill="#EAF6FF" opacity="0.75"/>
+    <path d="M310 130 L355 230 L270 210 Z" fill="#EAF6FF" opacity="0.8"/>
+    <path d="M670 160 L720 245 L625 230 Z" fill="#EAF6FF" opacity="0.75"/>
+    <path d="M980 120 L1035 230 L930 210 Z" fill="#EAF6FF" opacity="0.8"/>
+    <path d="M1320 150 L1380 245 L1265 225 Z" fill="#EAF6FF" opacity="0.75"/>
+  </g>
+
+  <!-- Ice ground -->
+  <path d="M0 350 C250 330 430 380 650 350 C850 320 1050 375 1260 350 C1420 330 1530 355 1600 345 V420 H0 Z" fill="#0B1628"/>
+  <path d="M0 360 C250 340 430 390 650 360 C850 330 1050 385 1260 360 C1420 340 1530 365 1600 355" stroke="#5DADE2" stroke-width="2" opacity="0.7"/>
+
+  <!-- Left shield -->
+  <g transform="translate(145 130)" filter="url(#glow)">
+    <path d="M70 0 L130 25 V85 C130 125 100 155 70 170 C40 155 10 125 10 85 V25 Z" stroke="#A7D8FF" stroke-width="4" fill="rgba(93,173,226,0.08)"/>
+    <rect x="48" y="72" width="44" height="42" rx="6" stroke="#EAF6FF" stroke-width="4"/>
+    <path d="M58 72 V55 C58 38 82 38 82 55 V72" stroke="#EAF6FF" stroke-width="4"/>
+    <circle cx="70" cy="94" r="5" fill="#38BDF8"/>
+  </g>
+
+  <!-- Right network -->
+  <g transform="translate(1280 140)" filter="url(#glow)" stroke="#A7D8FF" stroke-width="3">
+    <circle cx="30" cy="40" r="10" fill="#0D1117"/>
+    <circle cx="120" cy="20" r="10" fill="#0D1117"/>
+    <circle cx="190" cy="80" r="10" fill="#0D1117"/>
+    <circle cx="90" cy="120" r="10" fill="#0D1117"/>
+    <path d="M40 38 L110 22"/>
+    <path d="M130 25 L182 73"/>
+    <path d="M182 86 L100 118"/>
+    <path d="M85 114 L36 48"/>
+  </g>
+
+  <!-- Snowflake center -->
+  <g transform="translate(800 235)" stroke="#EAF6FF" stroke-width="3" opacity="0.9" filter="url(#glow)">
+    <line x1="0" y1="-30" x2="0" y2="30"/>
+    <line x1="-30" y1="0" x2="30" y2="0"/>
+    <line x1="-22" y1="-22" x2="22" y2="22"/>
+    <line x1="-22" y1="22" x2="22" y2="-22"/>
+    <circle cx="0" cy="0" r="5" fill="#A7D8FF"/>
+  </g>
+
+  <!-- Main Title -->
+  <text x="800" y="160" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="72" font-weight="900"
+        fill="url(#ice)" filter="url(#softGlow)"
+        letter-spacing="4">
+    TRAN NGOC DONG
+  </text>
+
+  <line x1="430" y1="195" x2="730" y2="195" stroke="#A7D8FF" stroke-width="2" opacity="0.9"/>
+  <line x1="870" y1="195" x2="1170" y2="195" stroke="#A7D8FF" stroke-width="2" opacity="0.9"/>
+
+  <text x="800" y="235" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="28" font-weight="600"
+        fill="#FFFFFF">
+    Cyber Security • Mobile Development • Networking
+  </text>
+
+  <text x="800" y="280" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="24" font-weight="500"
+        fill="#7DD3FC">
+    Silent • Focused • Always Learning
+  </text>
+
+  <!-- Bottom glow -->
+  <rect x="0" y="405" width="1600" height="4" fill="#38BDF8" opacity="0.6"/>
+</svg>
+```
