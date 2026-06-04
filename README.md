@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/winter-banner.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5DADE2,70:A7D8FF,100:0D1117&height=260&section=header&text=TRAN%20NGOC%20DONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20•%20Mobile%20Development%20•%20Networking&descAlignY=60&descSize=20" />
 
 <br>
 
