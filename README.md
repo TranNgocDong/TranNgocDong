@@ -120,15 +120,26 @@ Learn -> Build -> Break -> Fix -> Improve
 
 ---
 
-## 🚀 Featured Project
 
-### 🌍 Travel
+## 🚀 Featured Areas
 
-A travel planning project with modern UI and trip management features.
+🔐 Cyber Security
 
-```txt
-Repository: github.com/TranNgocDong/Travel
-```
+- Linux Fundamentals
+- Security Learning Labs
+- Network Security
+- Future CTF Challenges
+
+📱 Mobile Development
+
+- Expense Management App (Kotlin)
+- Android Development Practice
+
+🌐 Networking
+
+- Cisco Networking Labs
+- Network Design Projects
+- Routing & Switching
 
 ---
 
