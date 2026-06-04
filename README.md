@@ -12,7 +12,10 @@
 
 ```bash
 $ whoami
-@@ -19,91 +19,80 @@ $ role
+
+Tran Ngoc Dong
+
+$ role
 
 Information Technology Student
 
@@ -40,8 +43,6 @@ Improve.
 
 ❄️ Android Development
 
-
-
 ❄️ Computer Networking
 
 ❄️ Cloud Computing
@@ -49,22 +50,13 @@ Improve.
 
 ---
 
-
-
-
-
 # ⚡ Tech Stack
 
 <div align="center">
 
-
-
 <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,linux,git,github,vscode&theme=dark"/>
 
 </div>
-
-
-
 
 ---
 
@@ -73,16 +65,12 @@ Improve.
 ```text
 🌨️ Learning
 
-
 • Cyber Security
 • Linux
 • Networking
 • Mobile Development
 
 ❄️ Building
-
-
-
 
 • Android Projects
 • Networking Labs
@@ -95,15 +83,9 @@ Improve.
 • Security Research
 ```
 
-
-
-
 ---
 
 # 🔹 Areas of Interest
-
-
-
 
 | ❄️ Cyber Security | 📱 Mobile Development | 🌐 Networking       |
 | ----------------- | --------------------- | ------------------- |
@@ -114,7 +96,13 @@ Improve.
 
 ---
 
-@@ -117,7 +106,7 @@ Learn -> Build -> Improve
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -122,17 +110,52 @@ Improve.
 
 <div align="center">
 
-@@ -157,52 +146,39 @@ Learn -> Build -> Improve
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNgocDong&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TranNgocDong&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="./assets/winter-banner.svg" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Mobile+Development+Learner;Networking+Enthusiast;Silent+Focused+Always+Learning" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
 # 🚀 Featured Areas
-
-
-
-
-
-
 
 ### 🔐 Cyber Security
 
@@ -150,7 +173,6 @@ Improve.
 ### 🌐 Networking
 
 * Cisco Networking Labs
-
 * Routing & Switching
 * Network Design
 
@@ -158,21 +180,7 @@ Improve.
 
 # 💭 Quote
 
-
-
-
 > The best way to predict the future is to build it.
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
