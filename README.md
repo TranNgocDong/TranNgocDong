@@ -89,9 +89,9 @@ Improve.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=EAF6FF&icon_color=5DADE2&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=EAF6FF&hide_border=true" />
 
 </div>
 
@@ -99,10 +99,9 @@ Improve.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&background=0D1117&ring=38BDF8&fire=5DADE2&currStreakLabel=A7D8FF&currStreakNum=EAF6FF&sideLabels=A7D8FF&dates=A7D8FF&hide_border=true" />
 
 </div>
-
 ---
 
 # 📈 Contribution Activity
