@@ -14,46 +14,6 @@
 
 ---
 
-# ❄️ About Me
-
-```bash
-$ whoami
-
-Tran Ngoc Dong
-
-$ role
-
-Information Technology Student
-
-$ focus
-
-Cyber Security
-Mobile Development
-Networking
-
-$ philosophy
-
-Learn.
-Build.
-Improve.
-
-````md
-Log_Entry: "Day 001"
-Activities:
-  - "Learning Linux"
-  - "Learning Networking"
-  - "Building Android Projects"
-
-System_Status: "Focused"
-Core_Temperature: "-10°C"
-Current_Mission: "Keep Learning"
-````
-
-```
-```
-
----
-
 # ⚡ Tech Stack
 
 <div align="center">
