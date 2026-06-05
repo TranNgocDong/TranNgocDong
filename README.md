@@ -16,7 +16,6 @@
 
 # ❄️ About Me
 
-```bash
 $ whoami
 
 Tran Ngoc Dong
