@@ -1,5 +1,3 @@
-:::writing{variant="document" id="58291"}
-```md
 <div align="center">
 
 <img src="./assets/winter-banner.svg?v=6" alt="Winter Banner" width="100%" />
