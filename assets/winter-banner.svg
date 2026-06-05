@@ -110,79 +110,73 @@
   <rect x="0" y="405" width="1600" height="4" fill="#38BDF8" opacity="0.6"/>
 
   <g opacity="0.85">
-    <circle cx="100" cy="-20" r="3" fill="#EAF6FF">
-      <animate attributeName="cy" from="-20" to="450" dur="5s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="220" cy="-50" r="2" fill="#A7D8FF">
-      <animate attributeName="cy" from="-50" to="450" dur="8s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="350" cy="-35" r="3" fill="#EAF6FF">
-      <animate attributeName="cy" from="-35" to="450" dur="6s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="520" cy="-60" r="2" fill="#A7D8FF">
-      <animate attributeName="cy" from="-60" to="450" dur="7s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="720" cy="-20" r="3" fill="#EAF6FF">
-      <animate attributeName="cy" from="-20" to="450" dur="5.5s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="910" cy="-45" r="2" fill="#A7D8FF">
-      <animate attributeName="cy" from="-45" to="450" dur="8.5s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="1100" cy="-25" r="3" fill="#EAF6FF">
-      <animate attributeName="cy" from="-25" to="450" dur="6.5s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="1280" cy="-60" r="2" fill="#A7D8FF">
-      <animate attributeName="cy" from="-60" to="450" dur="7.5s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="1450" cy="-30" r="3" fill="#EAF6FF">
-      <animate attributeName="cy" from="-30" to="450" dur="5.8s" repeatCount="indefinite"/>
-    </circle>
+    <circle cx="100" cy="-20" r="3" fill="#EAF6FF"><animate attributeName="cy" from="-20" to="450" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="-50" r="2" fill="#A7D8FF"><animate attributeName="cy" from="-50" to="450" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="-35" r="3" fill="#EAF6FF"><animate attributeName="cy" from="-35" to="450" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="-60" r="2" fill="#A7D8FF"><animate attributeName="cy" from="-60" to="450" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="-20" r="3" fill="#EAF6FF"><animate attributeName="cy" from="-20" to="450" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="910" cy="-45" r="2" fill="#A7D8FF"><animate attributeName="cy" from="-45" to="450" dur="8.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="-25" r="3" fill="#EAF6FF"><animate attributeName="cy" from="-25" to="450" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1280" cy="-60" r="2" fill="#A7D8FF"><animate attributeName="cy" from="-60" to="450" dur="7.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1450" cy="-30" r="3" fill="#EAF6FF"><animate attributeName="cy" from="-30" to="450" dur="5.8s" repeatCount="indefinite"/></circle>
   </g>
 
   <g transform="translate(70 220)">
-    <circle cx="60" cy="95" r="45" fill="#D6F0FF" stroke="#A7D8FF" stroke-width="3"/>
-    <circle cx="60" cy="35" r="30" fill="#EAF6FF" stroke="#A7D8FF" stroke-width="3"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+                        values="0 60 140; 0 60 140; -12 60 140; 3 60 140; 0 60 140; 0 60 140"
+                        keyTimes="0; 0.84; 0.86; 0.90; 0.95; 1" dur="5s" repeatCount="indefinite"/>
 
-    <circle cx="50" cy="28" r="3" fill="#0D1117"/>
-    <circle cx="70" cy="28" r="3" fill="#0D1117"/>
+      <circle cx="60" cy="95" r="45" fill="#D6F0FF" stroke="#A7D8FF" stroke-width="3"/>
+      <circle cx="60" cy="35" r="30" fill="#EAF6FF" stroke="#A7D8FF" stroke-width="3"/>
 
-    <path d="M50 42 Q60 50 70 42" stroke="#38BDF8" stroke-width="2" fill="none"/>
+      <circle cx="50" cy="28" r="3" fill="#0D1117"/>
+      <circle cx="70" cy="28" r="3" fill="#0D1117"/>
+      <path d="M50 42 Q60 50 70 42" stroke="#38BDF8" stroke-width="2" fill="none"/>
 
-    <line x1="25" y1="85" x2="-10" y2="60" stroke="#A7D8FF" stroke-width="4"/>
+      <line x1="25" y1="85" x2="-10" y2="60" stroke="#A7D8FF" stroke-width="4"/>
 
-    <line x1="95" y1="85" x2="145" y2="55" stroke="#A7D8FF" stroke-width="4">
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        values="0 95 85;-25 95 85;15 95 85;0 95 85"
-        dur="3s"
-        repeatCount="indefinite"/>
-    </line>
+      <line x1="95" y1="85" x2="145" y2="55" stroke="#A7D8FF" stroke-width="4">
+        <animateTransform attributeName="transform" type="rotate"
+                          values="0 95 85; -30 95 85; 20 95 85; 0 95 85; 0 95 85"
+                          keyTimes="0; 0.05; 0.15; 0.25; 1" dur="5s" repeatCount="indefinite"/>
+      </line>
+    </g>
   </g>
 
-  <circle cx="230" cy="275" r="10"
-          fill="#EAF6FF"
-          stroke="#38BDF8"
-          stroke-width="2">
-    <animate attributeName="cx"
-             values="230;230;1500;1580"
-             dur="3s"
-             repeatCount="indefinite"/>
-    <animate attributeName="cy"
-             values="275;275;205;200"
-             dur="3s"
-             repeatCount="indefinite"/>
-    <animate attributeName="opacity"
-             values="0;1;1;0"
-             dur="3s"
-             repeatCount="indefinite"/>
+  <circle cx="215" cy="275" r="10" fill="#EAF6FF" stroke="#38BDF8" stroke-width="2">
+    <animate attributeName="cx" values="215; 215; 1430; 1430; 1430" keyTimes="0; 0.05; 0.35; 0.36; 1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="275; 275; 310; 310; 310" keyTimes="0; 0.05; 0.35; 0.36; 1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.05; 0.35; 0.36; 1" dur="5s" repeatCount="indefinite"/>
   </circle>
+
+  <g transform="translate(1530 220) scale(-1, 1)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+                        values="0 60 140; 0 60 140; -12 60 140; 3 60 140; 0 60 140; 0 60 140"
+                        keyTimes="0; 0.34; 0.36; 0.40; 0.45; 1" dur="5s" repeatCount="indefinite"/>
+
+      <circle cx="60" cy="95" r="45" fill="#D6F0FF" stroke="#A7D8FF" stroke-width="3"/>
+      <circle cx="60" cy="35" r="30" fill="#EAF6FF" stroke="#A7D8FF" stroke-width="3"/>
+
+      <circle cx="50" cy="28" r="3" fill="#0D1117"/>
+      <circle cx="70" cy="28" r="3" fill="#0D1117"/>
+      <path d="M50 42 Q60 50 70 42" stroke="#38BDF8" stroke-width="2" fill="none"/>
+
+      <line x1="25" y1="85" x2="-10" y2="60" stroke="#A7D8FF" stroke-width="4"/>
+
+      <line x1="95" y1="85" x2="145" y2="55" stroke="#A7D8FF" stroke-width="4">
+        <animateTransform attributeName="transform" type="rotate"
+                          values="0 95 85; 0 95 85; -30 95 85; 20 95 85; 0 95 85; 0 95 85"
+                          keyTimes="0; 0.5; 0.55; 0.65; 0.75; 1" dur="5s" repeatCount="indefinite"/>
+      </line>
+    </g>
+  </g>
+
+  <circle cx="1385" cy="275" r="10" fill="#EAF6FF" stroke="#38BDF8" stroke-width="2">
+    <animate attributeName="cx" values="1385; 1385; 1385; 170; 170; 170" keyTimes="0; 0.5; 0.55; 0.85; 0.86; 1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="275; 275; 275; 310; 310; 310" keyTimes="0; 0.5; 0.55; 0.85; 0.86; 1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.55; 0.85; 0.86; 1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
 </svg>
