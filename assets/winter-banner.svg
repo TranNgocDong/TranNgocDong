@@ -110,84 +110,94 @@
   <rect x="0" y="405" width="1600" height="4" fill="#38BDF8" opacity="0.6"/>
 
   <!-- Snowfall -->
-<g opacity="0.9">
-  <circle cx="120" cy="-20" r="3" fill="#EAF6FF">
-    <animate attributeName="cy" from="-20" to="440" dur="6s" repeatCount="indefinite"/>
-  </circle>
+  <g opacity="0.85">
+    <circle cx="100" cy="-20" r="3" fill="#EAF6FF">
+      <animate attributeName="cy" from="-20" to="450" dur="5s" repeatCount="indefinite"/>
+    </circle>
 
-  <circle cx="260" cy="-40" r="2" fill="#EAF6FF">
-    <animate attributeName="cy" from="-40" to="440" dur="8s" repeatCount="indefinite"/>
-  </circle>
+    <circle cx="220" cy="-50" r="2" fill="#A7D8FF">
+      <animate attributeName="cy" from="-50" to="450" dur="8s" repeatCount="indefinite"/>
+    </circle>
 
-  <circle cx="420" cy="-15" r="3" fill="#A7D8FF">
-    <animate attributeName="cy" from="-15" to="440" dur="7s" repeatCount="indefinite"/>
-  </circle>
+    <circle cx="350" cy="-35" r="3" fill="#EAF6FF">
+      <animate attributeName="cy" from="-35" to="450" dur="6s" repeatCount="indefinite"/>
+    </circle>
 
-  <circle cx="650" cy="-35" r="2" fill="#EAF6FF">
-    <animate attributeName="cy" from="-35" to="440" dur="9s" repeatCount="indefinite"/>
-  </circle>
+    <circle cx="520" cy="-60" r="2" fill="#A7D8FF">
+      <animate attributeName="cy" from="-60" to="450" dur="7s" repeatCount="indefinite"/>
+    </circle>
 
-  <circle cx="880" cy="-10" r="3" fill="#A7D8FF">
-    <animate attributeName="cy" from="-10" to="440" dur="5.5s" repeatCount="indefinite"/>
-  </circle>
+    <circle cx="720" cy="-20" r="3" fill="#EAF6FF">
+      <animate attributeName="cy" from="-20" to="450" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
 
-  <circle cx="1120" cy="-25" r="2" fill="#EAF6FF">
-    <animate attributeName="cy" from="-25" to="440" dur="7.5s" repeatCount="indefinite"/>
-  </circle>
+    <circle cx="910" cy="-45" r="2" fill="#A7D8FF">
+      <animate attributeName="cy" from="-45" to="450" dur="8.5s" repeatCount="indefinite"/>
+    </circle>
 
-  <circle cx="1360" cy="-18" r="3" fill="#A7D8FF">
-    <animate attributeName="cy" from="-18" to="440" dur="6.5s" repeatCount="indefinite"/>
-  </circle>
+    <circle cx="1100" cy="-25" r="3" fill="#EAF6FF">
+      <animate attributeName="cy" from="-25" to="450" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
 
-  <circle cx="1500" cy="-30" r="2" fill="#EAF6FF">
-    <animate attributeName="cy" from="-30" to="440" dur="8.5s" repeatCount="indefinite"/>
-  </circle>
-</g>
+    <circle cx="1280" cy="-60" r="2" fill="#A7D8FF">
+      <animate attributeName="cy" from="-60" to="450" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1450" cy="-30" r="3" fill="#EAF6FF">
+      <animate attributeName="cy" from="-30" to="450" dur="5.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
   <!-- Ice Guardian -->
-<g transform="translate(80 220)">
-  
-  <!-- body -->
-  <circle cx="60" cy="90" r="42"
-          fill="#D6F0FF"
-          stroke="#A7D8FF"
-          stroke-width="3"/>
+  <g transform="translate(70 220)">
+    <circle cx="60" cy="95" r="45" fill="#D6F0FF" stroke="#A7D8FF" stroke-width="3"/>
+    <circle cx="60" cy="35" r="30" fill="#EAF6FF" stroke="#A7D8FF" stroke-width="3"/>
 
-  <circle cx="60" cy="35" r="28"
-          fill="#EAF6FF"
-          stroke="#A7D8FF"
-          stroke-width="3"/>
+    <circle cx="50" cy="28" r="3" fill="#0D1117"/>
+    <circle cx="70" cy="28" r="3" fill="#0D1117"/>
 
-  <!-- eyes -->
-  <circle cx="50" cy="30" r="2.5" fill="#0D1117"/>
-  <circle cx="70" cy="30" r="2.5" fill="#0D1117"/>
+    <path d="M50 42 Q60 50 70 42" stroke="#38BDF8" stroke-width="2" fill="none"/>
 
-  <!-- smile -->
-  <path d="M50 45 Q60 52 70 45"
+    <line x1="25" y1="85" x2="-10" y2="60" stroke="#A7D8FF" stroke-width="4"/>
+
+    <line x1="95" y1="85" x2="145" y2="55" stroke="#A7D8FF" stroke-width="4">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="0 95 85;-25 95 85;15 95 85;0 95 85"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Throwing Light Trail -->
+  <line x1="230" y1="275" x2="1500" y2="205"
         stroke="#38BDF8"
-        stroke-width="2"
-        fill="none"/>
+        stroke-width="5"
+        stroke-linecap="round"
+        opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;0.9;0.4;0"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </line>
 
-  <!-- left arm -->
-  <line x1="28" y1="82" x2="-10" y2="60"
-        stroke="#A7D8FF"
-        stroke-width="4"/>
-
-  <!-- right arm -->
-  <line x1="92" y1="82" x2="130" y2="60"
-        stroke="#A7D8FF"
-        stroke-width="4"/>
-
-  <!-- snowball -->
-  <circle cx="145" cy="55" r="8"
+  <!-- Flying Snowball Far Throw -->
+  <circle cx="230" cy="275" r="10"
           fill="#EAF6FF"
           stroke="#38BDF8"
           stroke-width="2">
-      <animate attributeName="cx"
-               values="145;175;145"
-               dur="2.5s"
-               repeatCount="indefinite"/>
+    <animate attributeName="cx"
+             values="230;230;1500;1580"
+             dur="3s"
+             repeatCount="indefinite"/>
+    <animate attributeName="cy"
+             values="275;275;205;200"
+             dur="3s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0;1;1;0"
+             dur="3s"
+             repeatCount="indefinite"/>
   </circle>
-
-</g>
 </svg>
