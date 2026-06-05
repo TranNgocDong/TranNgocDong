@@ -2,6 +2,7 @@
 
 <img src="./assets/winter-banner.svg?v=6" alt="Winter Banner" width="100%" />
 
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Mobile+Development+Learner;Networking+Enthusiast;Silent+Focused+Always+Learning" />
@@ -12,111 +13,94 @@
 
 </div>
 
-
 ---
 
-# 📚 Learning Journey
+# ❄️ About Me
 
-### 🌨️ Learning
+```bash
+$ whoami
 
-* Cyber Security
-* Linux
-* Networking
-* Mobile Development
+Tran Ngoc Dong
 
-### ❄️ Building
+$ role
 
-* Android Projects
-* Networking Labs
-* University Projects
+Information Technology Student
 
-### 🧊 Exploring
+$ focus
 
-* Mobile Security
-* Cloud Security
-* Security Research
+Cyber Security
+Mobile Development
+Networking
 
----
+$ philosophy
 
-# 🔹 Areas of Interest
+Learn.
+Build.
+Improve.
+❄️ Cyber Winter Log
+Day 001
 
-| Cyber Security   | Mobile Development | Networking          |
-| ---------------- | ------------------ | ------------------- |
-| Linux Security   | Kotlin             | Cisco Labs          |
-| Network Security | Android            | Routing & Switching |
-| Security Labs    | Mobile UI          | Network Design      |
-| Future CTFs      | App Development    | Infrastructure      |
+Learning Cyber Security...
+Building Mobile Projects...
+Studying Computer Networks...
 
----
+Status:
+Focused
 
-# 📈 Contribution Activity
+Environment:
+Frozen Technology
 
-<div align="center">
+Temperature:
+-10°C
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNgocDong&bg_color=0D1117&color=A7D8FF&line=38BDF8&point=EAF6FF&area=true&hide_border=true" />
+Current Mission:
+Keep Learning
+⚡ Tech Stack
+📚 Learning Journey
+🌨️ Learning
+Cyber Security
+Linux
+Networking
+Mobile Development
+❄️ Building
+Android Projects
+Networking Labs
+University Projects
+🧊 Exploring
+Mobile Security
+Cloud Security
+Security Research
+🔹 Areas of Interest
+Cyber Security	Mobile Development	Networking
+Linux Security	Kotlin	Cisco Labs
+Network Security	Android	Routing & Switching
+Security Labs	Mobile UI	Network Design
+Future CTFs	App Development	Infrastructure
+📈 Contribution Activity
+🏆 Achievements
+🐍 Contribution Snake
+🚀 Featured Areas
+🔐 Cyber Security
+Linux Fundamentals
+Security Labs
+Network Security
+CTF Learning
+📱 Mobile Development
+Kotlin Practice
+Android Development
+Mobile UI Projects
+🌐 Networking
+Cisco Networking Labs
+Routing & Switching
+Network Design
+💭 Winter Philosophy
 
-</div>
+Learn quietly.
 
----
+Build consistently.
 
-# 🏆 Achievements
+Improve every day.
 
-<div align="center">
+Technology rewards persistence.
 
-<img src="https://github-profile-trophy.vercel.app/?username=TranNgocDong&theme=algolia&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-# 🚀 Featured Areas
-
-## 🔐 Cyber Security
-
-* Linux Fundamentals
-* Security Labs
-* Network Security
-* Future CTF Challenges
-
-## 📱 Mobile Development
-
-* Kotlin Practice
-* Android Development
-* Mobile UI Projects
-
-## 🌐 Networking
-
-* Cisco Networking Labs
-* Routing & Switching
-* Network Design
-
----
-
-# 💭 Winter Philosophy
-
-> Learn quietly.
->
-> Build consistently.
->
-> Improve every day.
->
-> Technology rewards persistence.
-
----
-
-<div align="center">
-
-### ❄️ Silent • Focused • Always Learning ❄️
-
-</div>
-```
+❄️ Silent • Focused • Always Learning ❄️
