@@ -14,42 +14,20 @@
 
 ---
 
-# ❄️ About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Tran%20Ngoc%20Dong&fontSize=60&animation=fadeIn&fontColor=A7D8FF" alt="Animated Header" width="100%"/>
+</div>
 
+---
+
+# <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="30"> About Me
+
+```bash
 $ whoami
-
 Tran Ngoc Dong
 
-$ role
-
-Information Technology Student
-
-$ focus
-
-Cyber Security
-Mobile Development
-Networking
-
-$ philosophy
-
-Learn.
-Build.
-Improve.
-
-````md
-Log_Entry: "Day 001"
-Activities:
-  - "Learning Linux"
-  - "Learning Networking"
-  - "Building Android Projects"
-
-System_Status: "Focused"
-Core_Temperature: "-10°C"
-Current_Mission: "Keep Learning"
-````
-
-```
-```
+$ education
+Information Technology Student | Cybersecurity Major
 
 ---
 
