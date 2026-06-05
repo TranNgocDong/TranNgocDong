@@ -1,11 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5DADE2,70:A7D8FF,100:0D1117&height=260&section=header&text=TRAN%20NGOC%20DONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20•%20Mobile%20Development%20•%20Networking&descAlignY=60&descSize=20" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Mobile+Development+Learner;Networking+Enthusiast;Silent+Focused+Always+Learning" />
-
+  <img src="./assets/winter-banner.svg" alt="Winter Banner" width="100%" />
 </div>
 
 ---
