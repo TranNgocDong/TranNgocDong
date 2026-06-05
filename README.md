@@ -129,7 +129,7 @@ Improve.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" />
 
 </div>
 
