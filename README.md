@@ -1,6 +1,16 @@
-
+````md
 <div align="center">
-  <img src="./assets/winter-banner.svg?v=2" alt="Winter Banner" width="100%" />
+
+<img src="./assets/winter-banner.svg?v=6" alt="Winter Banner" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=A7D8FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;Mobile+Development+Learner;Networking+Enthusiast;Silent+Focused+Always+Learning" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TranNgocDong&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
+
 </div>
 
 ---
@@ -27,17 +37,32 @@ $ philosophy
 Learn.
 Build.
 Improve.
-```
+````
 
 ---
 
-# 🧊 Current Focus
+````md
+# ❄️ Cyber Winter Log
 
-* Cyber Security Fundamentals
-* Linux Administration
-* Android Development
-* Computer Networking
-* Cloud Computing
+```text
+Day 001
+
+Learning Linux...
+Learning Networking...
+Building Android Projects...
+
+Status:
+Focused
+
+Temperature:
+-10°C
+
+Mission:
+Keep Learning
+````
+
+```
+```
 
 ---
 
@@ -45,7 +70,15 @@ Improve.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,linux,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin&theme=dark"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -85,31 +118,11 @@ Improve.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TranNgocDong&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=EAF6FF&icon_color=5DADE2&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNgocDong&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=EAF6FF&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranNgocDong&background=0D1117&ring=38BDF8&fire=5DADE2&currStreakLabel=A7D8FF&currStreakNum=EAF6FF&sideLabels=A7D8FF&dates=A7D8FF&hide_border=true" />
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNgocDong&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNgocDong&bg_color=0D1117&color=A7D8FF&line=38BDF8&point=EAF6FF&area=true&hide_border=true" />
 
 </div>
 
@@ -119,7 +132,7 @@ Improve.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TranNgocDong&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=TranNgocDong&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -129,7 +142,7 @@ Improve.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" />
+<img src="https://raw.githubusercontent.com/TranNgocDong/TranNgocDong/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -158,9 +171,15 @@ Improve.
 
 ---
 
-# 💭 Quote
+# 💭 Winter Philosophy
 
-> The best way to predict the future is to build it.
+> Learn quietly.
+>
+> Build consistently.
+>
+> Improve every day.
+>
+> Technology rewards persistence.
 
 ---
 
@@ -169,3 +188,4 @@ Improve.
 ### ❄️ Silent • Focused • Always Learning ❄️
 
 </div>
+```
