@@ -37,8 +37,6 @@ Learn.
 Build.
 Improve.
 
----
-
 ````md
 # ❄️ Cyber Winter Log
 
