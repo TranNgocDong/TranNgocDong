@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/winter-banner.svg" alt="Winter Banner" width="100%" />
+  <img src="./assets/winter-banner.svg"?v=2 alt="Winter Banner" width="100%" />
 </div>
 
 ---
