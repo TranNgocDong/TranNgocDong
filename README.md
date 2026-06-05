@@ -20,32 +20,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="30"> About Me
 
-```bash
-$ whoami
-Tran Ngoc Dong
-
-$ education
-Information Technology Student | Cybersecurity Major
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin&theme=dark"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
-
-</div>
 
 ---
 
