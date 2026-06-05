@@ -108,4 +108,39 @@
   </text>
 
   <rect x="0" y="405" width="1600" height="4" fill="#38BDF8" opacity="0.6"/>
+
+  <!-- Snowfall -->
+<g opacity="0.9">
+  <circle cx="120" cy="-20" r="3" fill="#EAF6FF">
+    <animate attributeName="cy" from="-20" to="440" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="260" cy="-40" r="2" fill="#EAF6FF">
+    <animate attributeName="cy" from="-40" to="440" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="420" cy="-15" r="3" fill="#A7D8FF">
+    <animate attributeName="cy" from="-15" to="440" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="650" cy="-35" r="2" fill="#EAF6FF">
+    <animate attributeName="cy" from="-35" to="440" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="880" cy="-10" r="3" fill="#A7D8FF">
+    <animate attributeName="cy" from="-10" to="440" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1120" cy="-25" r="2" fill="#EAF6FF">
+    <animate attributeName="cy" from="-25" to="440" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1360" cy="-18" r="3" fill="#A7D8FF">
+    <animate attributeName="cy" from="-18" to="440" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1500" cy="-30" r="2" fill="#EAF6FF">
+    <animate attributeName="cy" from="-30" to="440" dur="8.5s" repeatCount="indefinite"/>
+  </circle>
+</g>
 </svg>
