@@ -12,15 +12,6 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Tran%20Ngoc%20Dong&fontSize=60&animation=fadeIn&fontColor=A7D8FF" alt="Animated Header" width="100%"/>
-</div>
-
----
-
-
 
 ---
 
